@@ -1,8 +1,7 @@
 # Site settings
 title: Grasshoppermouse
 description: > # this means to ignore newlines until "baseurl:"
-  I'm an associate professor of anthropology at Washington State University.
-  I specialize in evolutionary medicine, evolutionary psychology, and 
+  A blog about evolutionary medicine, evolutionary psychology, and 
   human behavioral ecology.
 baseurl: ""
 # Build settings
