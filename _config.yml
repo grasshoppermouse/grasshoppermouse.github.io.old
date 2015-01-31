@@ -1,7 +1,6 @@
 # Site settings
 title: Grasshoppermouse
 author: Ed Hagen
-email: ehagen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A blog about evolutionary medicine, evolutionary psychology, and 
   human behavioral ecology.
