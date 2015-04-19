@@ -5,7 +5,7 @@ author: "Ed Hagen"
 date: "April 19, 2015"
 ---
 
-My grad student Caity Placek is working on behavioral immunity during during pregnancy. Behavioral immunity refers to psychological adaptations that help defend against pathogens; avoidance of sick people would be a possible example.
+My grad student Caity Placek is working on behavioral immunity during pregnancy. Behavioral immunity refers to psychological adaptations that help defend against pathogens; avoidance of sick people would be a possible example.
 
 Caity's results suggest that aversion to meat in pregnancy is related to infection risk, especially in the first trimester. This supports an influential hypothesis put forward in 2000 by Flaxman and Sherman that these aversions are due to the immunosuppression that also occurs early in pregnancy. The rationale is that, during human evolution, meat often harbored pathogens, so immunosuppressed pregnant women should have evolved to avoid it.
 
