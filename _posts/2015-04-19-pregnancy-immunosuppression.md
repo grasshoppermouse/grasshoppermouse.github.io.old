@@ -13,7 +13,7 @@ The idea that pregnant women are immunosuppressed originated with Peter Medawar,
 
 > The immunological problem of pregnancy may be formulated thus: how does the pregnant mother contrive to nourish within itself, for many weeks or months, a foetus that is an antigenically foreign body?
 
-For the next 40 years, much research on this "immunological paradox" was conducted as if the fetal ‘allograft’ was like a surgically transplanted organ (Erlebacher 2013). One solution to the paradox offered by Medawar was "the immunological indolence or inertness of the [pregnant] mother." In other words, to avoid rejecting the fetus as they would a transplanted kidney, pregnant women were naturally immunosuppressed.
+For the next 40 years, much research on this "immunological paradox" was conducted as if the fetal ‘allograft’ were like a surgically transplanted organ (Erlebacher 2013). One solution to the paradox offered by Medawar was "the immunological indolence or inertness of the [pregnant] mother." In other words, to avoid rejecting the fetus as they would a transplanted kidney, pregnant women were naturally immunosuppressed.
 
 A more recent variant of this hypothesis involved the Th1-Th2 paradigm, in which Th1 cells express proinflammatory cytokines, whereas Th2 cells secrete cytokines promoting humoral immunity, and either pathway can down-regulate the other. The pregnancy state was thought to be a Th2 biased state, to avoid an inflammatory response to the fetus.
 
