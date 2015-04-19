@@ -31,11 +31,11 @@ Writing in the New England Journal of Medicine, Kourtis et al. (2014) similarly 
 
 > Elucidation of the immunologic alterations and adaptations that occur during pregnancy suggests that older concepts of pregnancy as a state of systemic immunosuppression are oversimplified. A more useful model may be the view of pregnancy as a modulated immunologic condition, not a state of immunosuppression.
 
-The evidence against systemic (emphasis on *systemic*) immunsuppression in pregnancy is pretty compelling.
+The evidence against systemic (emphasis on *systemic*) immunosuppression in pregnancy is pretty compelling.
 
 There is little epidemiological evidence that pregnant women are more vulnerable to infection. In a review of pregnancy and infection, Kourtis et al. (2014) state "The fact that pregnant women do not seem, on the basis of epidemiologic evidence, to be more susceptible to infections in general also contradicts [the pregnancy immunosuppression] theory." Keeping in mind that, for some infectious diseases, there are national and global surveillance programs involving millions of patients, and that public health researchers are particularly concerned about infections during pregnancy, this is a powerful blow to the theory.
 
-My first thought was that maybe behavioral immunity compensates for immunosuppression, but no, pregant women respond well to vaccines: "Adequate immunologic responses to vaccination in pregnant women have been demonstrated in several studies and for several pathogens" (Kourtis et al. 2014), and these responses do not appear to depend significantly on trimester (Pazos et al. 2012).
+My first thought was that maybe behavioral immunity compensates for immunosuppression, but no, pregnant women respond well to vaccines: "Adequate immunologic responses to vaccination in pregnant women have been demonstrated in several studies and for several pathogens" (Kourtis et al. 2014), and these responses do not appear to depend significantly on trimester (Pazos et al. 2012).
 
 Further, researchers find that the immune system is "functional and highly active" during pregnancy (Racicot et al. 2014). And pregnant women's immune systems do  detect and respond to the fetus. The title of this paper says it all: *Fetal-Specific CD8+ Cytotoxic T Cell Responses Develop during Normal Human Pregnancy and Exhibit Broad Functional Capacity* (Lissauer et al. 2012).
 
@@ -65,9 +65,9 @@ In the 100+ million years since the evolution of viviparity, sophisticated (but 
 
 Pregnant women might have evolved an aversion to meat, not because they are more vulnerable to infection, but because the *costs* of infection are higher during pregnancy. It is also possible that some pregnancy-related aversions are specific to particular pathogens that do more easily infect pregnant women.
 
-Pregnancy-related shifts in immunity imply shifts in tradeoffs: improvements in some aspects of immunity but detriments in others. These might be related to the energetic cost of pregnancy, to the challenges of a semiallogeneic fetus (and semiallogeneic mother!), and/or to the need for placental, fetal, and materal immune mechanisms to coordinate. Perhaps, a la Haig, there are conflicts with paternal genes that pose special challenges.
+Pregnancy-related shifts in immunity imply shifts in trade-offs: improvements in some aspects of immunity but detriments in others. These might be related to the energetic cost of pregnancy, to the challenges of a semiallogeneic fetus (and semiallogeneic mother!), and/or to the need for placental, fetal, and maternal immune mechanisms to coordinate. Perhaps, a la Haig, there are conflicts with paternal genes that pose special challenges.
 
-Finally, there are still many unknowns and much debate.
+Finally, there are still many unknowns and much debate. To give the last word to Medawar, he believed the key factor ensuring the success of gestation was not maternal immunosuppression but rather "the anatomical separation of foetus from mother," a basic conclusion that, according to Billington (2003), remains substantially valid to this day.
 
 # References
 
