@@ -3,6 +3,6 @@ title: Ed Hagen
 description: > # this means to ignore newlines until "baseurl:"
   A blog about evolutionary medicine, evolutionary psychology, 
   human behavioral ecology, and human biology.
-baseurl: ""
+url: http://grasshoppermouse.github.io
 # Build settings
 markdown: kramdown
