@@ -1,9 +1,8 @@
 # Site settings
-title: Grasshoppermouse
-author: Ed Hagen
+title: Ed Hagen
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about evolutionary medicine, evolutionary psychology, and 
-  human behavioral ecology.
+  A blog about evolutionary medicine, evolutionary psychology, 
+  human behavioral ecology, and human biology.
 baseurl: ""
 # Build settings
 markdown: kramdown
