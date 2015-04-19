@@ -61,7 +61,7 @@ There are shifts in immunity during pregnancy. A recent longitudinal study of he
 
 Where does this leave Caity? And Flaxman and Sherman? Here are a few obvious possible reinterpretations.
 
-In the 100+ million years since the evolution of viviparity, sophisticated (but not infallible) mechanisms have evolved in both mother and fetus to allow the immune system to be fully active against pathogens without jeopardizing the fetus. Many of these mechanisms are localized to the uterine environment.
+In the >100 million years since the evolution of viviparity, sophisticated (but not infallible) mechanisms have evolved in both mother and fetus to allow the immune system to be fully active against pathogens without jeopardizing the fetus. Many of these mechanisms are localized to the uterine environment.
 
 Pregnant women might have evolved an aversion to meat, not because they are more vulnerable to infection, but because the *costs* of infection are higher during pregnancy. It is also possible that some pregnancy-related aversions are specific to particular pathogens that do more easily infect pregnant women.
 
