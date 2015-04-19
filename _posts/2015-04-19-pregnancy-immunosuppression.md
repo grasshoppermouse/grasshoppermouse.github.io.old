@@ -45,7 +45,7 @@ First, it is now recognized that many shifts in immunity during pregnancy are sp
 
 > Most evidence supporting a Th2 shifts derives from studies of [the maternal/fetal] interface rather than systemic immunity. Although inflammatory events have been shown to be important at critical times at the beginning and end of gestation, for the most part, the uterine environment is biased toward Th2 [34]. Arguments for a Th2 bias in the periphery are much more contentious [35].
 
-Second, the fetus and placenta are now seen as an active players that mostly cooperate with the maternal immune system to provide immunity during pregnancy (Mor et al. 2010).
+Second, the fetus and placenta are now seen as an active players that generally cooperate with the maternal immune system to provide immunity during pregnancy (Mor et al. 2010).
 
 Third, earlier views were heavily influenced by studies of pregnancy complications and loss in humans, as well as mouse models, which might not translate to immune responses during healthy human pregnancies.
 
@@ -61,11 +61,11 @@ There are shifts in immunity during pregnancy. A recent longitudinal study of he
 
 Where does this leave Caity? And Flaxman and Sherman? Here are a few obvious possible reinterpretations.
 
-In the 100+ million years since the evolution of viviparity, sophisticated (but not infallible) mechanisms have evolved in both mother and fetus to allow the immune systems of both to be fully active against pathogens without attacking each other. Many of these mechanisms are localized to the uterine environment.
+In the 100+ million years since the evolution of viviparity, sophisticated (but not infallible) mechanisms have evolved in both mother and fetus to allow the immune system to be fully active against pathogens without jeopardizing the fetus. Many of these mechanisms are localized to the uterine environment.
 
 Pregnant women might have evolved an aversion to meat, not because they are more vulnerable to infection, but because the *costs* of infection are higher during pregnancy. It is also possible that some pregnancy-related aversions are specific to particular pathogens that do more easily infect pregnant women.
 
-Pregnancy-related shifts in immunity imply shifts in trade-offs: improvements in some aspects of immunity but detriments in others. These might be related to the energetic cost of pregnancy, to the challenges of a semiallogeneic fetus, and/or to the need for placental, fetal, and maternal immune mechanisms to coordinate. Perhaps, a la Haig, there are conflicts with paternal genes that pose special challenges.
+Pregnancy-related shifts in immunity imply shifts in trade-offs: improvements to some aspects of immunity but detriments to others. These might be related to the energetic cost of pregnancy, to the challenges of a semiallogeneic fetus, and/or to the need for placental, fetal, and maternal immune mechanisms to coordinate. Perhaps, a la Haig, there are conflicts with paternal genes that pose special challenges.
 
 Finally, there are still many unknowns and much debate. To give the last word to Medawar, he believed the key factor ensuring the success of gestation was not maternal immunosuppression but rather "the anatomical separation of foetus from mother," a basic conclusion that, according to Billington (2003), remains substantially valid to this day.
 
@@ -82,6 +82,8 @@ Kourtis, A. P., Read, J. S., & Jamieson, D. J. (2014). Pregnancy and Infection. 
 Lissauer, D., Piper, K., Goodyear, O., Kilby, M. D., & Moss, P. A. H. (2012). Fetal-Specific CD8+ Cytotoxic T Cell Responses Develop during Normal Human Pregnancy and Exhibit Broad Functional Capacity. The Journal of Immunology, 189(2), 1072–1080. <http://doi.org/10.4049/jimmunol.1200544>
 
 Medawar, P. B. (1953, January). Some immunological and endocrinological problems raised by the evolution of viviparity in vertebrates. In Symp Soc Exp Biol (Vol. 7, No. 320, p. 38).
+
+Mor, G., & Cardenas, I. (2010). The Immune System in Pregnancy: A Unique Complexity: IMMUNE SYSTEM IN PREGNANCY. American Journal of Reproductive Immunology, 63(6), 425–433. <http://doi.org/10.1111/j.1600-0897.2010.00836.x>
 
 Pazos, M., Sperling, R. S., Moran, T. M., & Kraus, T. A. (2012). The influence of pregnancy on systemic immunity. Immunologic Research, 54(1-3), 254–261. <http://doi.org/10.1007/s12026-012-8303-9>
 
