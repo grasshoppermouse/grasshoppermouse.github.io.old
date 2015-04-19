@@ -57,7 +57,7 @@ Although pregnant women are generally not more susceptible to infection, there i
 
 Pregnant women do seem to be more susceptible to infection with a few pathogens, in particular malaria and listeriosis (Kourtis et al. 2014). Listeriosis is a food borne bacteria, often found on raw dairy products and meat. Hmmm.
 
-There are shifts in immunity during pregnancy. A recent longitudinal study of healthy pregnancies found that "pregnancy is not a period of immunosuppression but an alteration in immune priorities characterized by a strengthening of innate immune barriers and a concomitant reduction in adaptive/inflammatory immunity in the later stages of pregnancy" (Kraus et al. 2012).
+There are shifts in immunity during pregnancy. A recent longitudinal study of healthy pregnancies, for example, found that "pregnancy is not a period of immunosuppression but an alteration in immune priorities characterized by a strengthening of innate immune barriers and a concomitant reduction in adaptive/inflammatory immunity in the later stages of pregnancy" (Kraus et al. 2012).
 
 Where does this leave Caity? And Flaxman and Sherman? Here are a few obvious possible reinterpretations.
 
@@ -65,7 +65,7 @@ In the 100+ million years since the evolution of viviparity, sophisticated (but 
 
 Pregnant women might have evolved an aversion to meat, not because they are more vulnerable to infection, but because the *costs* of infection are higher during pregnancy. It is also possible that some pregnancy-related aversions are specific to particular pathogens that do more easily infect pregnant women.
 
-Pregnancy-related shifts in immunity imply shifts in trade-offs: improvements to some aspects of immunity but detriments to others. These might be related to the energetic cost of pregnancy, to the challenges of a semiallogeneic fetus, and/or to the need for placental, fetal, and maternal immune mechanisms to coordinate. Perhaps, a la Haig, there are conflicts with paternal genes that pose special challenges.
+Pregnancy-related shifts in immunity imply shifts in trade-offs: improvements to some aspects of immunity but detriments to others. These might be related to the energetic cost of pregnancy, to the challenges of a semiallogeneic fetus, and/or to the need for placental, fetal, and maternal immune mechanisms to coordinate. Perhaps, *a la* Haig, there are conflicts with paternal genes that pose special challenges.
 
 Finally, there are still many unknowns and much debate. To give the last word to Medawar, he believed the key factor ensuring the success of gestation was not maternal immunosuppression but rather "the anatomical separation of foetus from mother," a basic conclusion that, according to Billington (2003), remains substantially valid to this day.
 
