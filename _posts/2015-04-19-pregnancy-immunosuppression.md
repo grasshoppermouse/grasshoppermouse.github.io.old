@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is pregnancy immunosuppression a myth?"
-author: "Ed Hagen"
+author: "Edward H. Hagen"
 date: "April 19, 2015"
 ---
 
